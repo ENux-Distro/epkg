@@ -16,10 +16,13 @@ You can install **epkg** package manager on any Linux based system with:
 - After you made sure your Linux based system has these programs, run this command:
 
 **git clone https://github.com/ENux-Distro/epkg.git**
+
 **sudo cp epkg /usr/bin/epkg**
+
 **sudo chmod 755 /usr/local/bin/epkg**
  - Ensure the package manager is installed succesfully, by installing a simple package like nano with:
+
 **sudo epkg install nano**
 
 And voila. You have installed **epkg** on your Linux based system.
-If you want a distribution with this package manager pre-installed, you should try out (EPkgOS)[]
+If you want a distribution with this package manager pre-installed, you should try out [EPkgOS](https://github.com/ENux-Distro/EPkgOS)
