@@ -19,7 +19,7 @@ You can install **epkg** package manager on any Linux based system with:
 
 **sudo cp epkg /usr/bin/epkg**
 
-**sudo chmod 755 /usr/local/bin/epkg**
+**sudo chmod 755 /usr/bin/epkg**
  - Ensure the package manager is installed succesfully, by installing a simple package like nano with:
 
 **sudo epkg install nano**
